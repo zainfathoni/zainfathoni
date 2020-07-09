@@ -7,8 +7,8 @@
 - 💬 Ask me about anything related to React, JavaScript, and Testing.
 - 📫 Reach out to me directly through [Telegram](https://t.me/zainfathoni).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've broken a few electronic devices due to my [hyperhidrosis](https://en.wikipedia.org/wiki/Hyperhidrosis) condition 💦😅
-  Below is the non-exhaustive list of those devices I can remember so far:
+- ⚡ Fun fact: I've broken a bunch of electronic devices due to my [hyperhidrosis](https://en.wikipedia.org/wiki/Hyperhidrosis) condition 😅
+- 💦 Below is the non-exhaustive list of those devices I can remember so far:
   - 3 computer keyboards ⌨️
   - 1 piano keyboard Roland EXR-5s 🎹—Yes, I play musical instruments
   - 2 laptops 💻
