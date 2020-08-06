@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [Zain](https://zainfathoni.com)
 
 - 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer
 - 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com)
