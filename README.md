@@ -12,7 +12,7 @@
   - 3 computer keyboards ⌨️
   - 1 piano keyboard Roland EXR-5s 🎹—Yes, I play musical instruments
   - 2 laptops 💻
-  - 4 mobile phones 📱
+  - 5 mobile phones 📱
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zainfathoni&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
