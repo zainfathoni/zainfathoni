@@ -1,11 +1,11 @@
 ### Hi there, I'm [Zain](https://zainfathoni.com)! 👋
 
 - 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer
-- 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com) and [Reason](https://reasonml.org)
+- 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com) and [ReScript](https://rescript-lang.org)
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript
 - 🤔 I’m looking for help with building technical solutions for [KawalCOVID19](https://kawalcovid19.id) community
 - 💬 Ask me about anything related to React, JavaScript, and Testing.
-- 📫 Reach out to me directly through [Telegram](https://t.me/zainfathoni).
+- 📫 Reach out to me directly through my brand new [Discord Server](https://zainf.dev/discord).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've broken a bunch of electronic devices due to my [hyperhidrosis](https://en.wikipedia.org/wiki/Hyperhidrosis) condition 😅
 - 💦 Below is the non-exhaustive list of those devices I can remember so far:
