@@ -1,6 +1,6 @@
 ### Hi there, I'm [Zain](https://zainfathoni.com)! 👋
 
-- 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer
+- 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer 2
 - 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com) and [ReScript](https://rescript-lang.org)
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript
 - 🤔 I’m looking for help with building technical solutions for [KawalCOVID19](https://kawalcovid19.id) community
