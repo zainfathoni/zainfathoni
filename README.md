@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev) and [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 - 👨🏻‍💻 I’m currently building [Rumah Berbagi App](https://github.com/zainfathoni/rumahberbagi-app) and [my personal dotfiles](https://github.com/zainfathoni/dotfiles) as side projects.
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript.
-- 🤔 I’m looking for help with building technical solutions for [KawalCOVID19](https://kawalcovid19.id) and [Warga Bantu Warga](https://wargabantuwarga.com) community.
+- 🤔 I’m looking for help with building technical solutions for [KawalCOVID19](https://kawalcovid19.id) and [Warga Bantu Warga](https://wargabantuwarga.com) communities.
 - 💬 Ask me about anything related to React, JavaScript, and Testing.
 - 📫 Reach out to me directly through my brand new [Discord Server](https://zainf.dev/discord).
 - 😄 Pronouns: he/him
