@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer 2.
 - 🌱 I’m currently learning [Flutter](https://flutter.dev) and [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
-- 👨🏻‍💻 I’m currently building [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) using [Remix](https://remix.run) as a side project.
+- 👨🏻‍💻 I’m currently building [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) and [Senarai](https://senar.ai) using [Remix](https://remix.run) as a side project.
+- 🧰 I'm also building [pkode](https://github.com/zainfathoni/pkode), a CLI toolbox for common scripts I use in my open-source projects
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript.
 - 🤔 I’m looking for help with building technical solutions for [KawalCOVID19](https://kawalcovid19.id) and [Warga Bantu Warga](https://wargabantuwarga.com) communities.
 - 💬 Ask me about anything related to React, JavaScript, and Testing.
