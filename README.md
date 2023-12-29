@@ -1,7 +1,7 @@
 ### Hi there, I'm [Zain](https://zainfathoni.com)! 👋
 
 - 🔭 I’m currently working at [Ninja Van](https://www.ninjavan.co) as a Senior Software Engineer 2.
-- 🌱 I’m currently learning [P2P API by Socket Supply Co](https://socketsupply.co/guides/#p2p-guide) to build modern apps without the cloud.
+- 🌱 I’m currently learning to [create a multitenant SaaS service with Turso, Remix, and Drizzle](https://blog.turso.tech/creating-a-multitenant-saas-service-with-turso-remix-and-drizzle-6205cf47) for my [Zavi Family](https://docs.zavi.family/) side projects.
 - 👨🏻‍💻 I’m currently building [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) and [Senarai](https://github.com/senar-ai/web) using [Remix](https://remix.run) as a side project.
 - 🧰 I'm also building [pkode](https://github.com/zainfathoni/pkode), a CLI toolbox for common scripts I use in my open-source projects
 - 👯 I’m looking to collaborate on any open-source projects related to React and TypeScript.
